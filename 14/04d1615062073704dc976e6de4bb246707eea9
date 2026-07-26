@@ -1,0 +1,19 @@
+dexs/bullet-perp/index.ts
+  s_c43a9d549ea4ad::t_328a24e2f12db1 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "1404d1615062073704dc976e6de4bb246707eea9",
+  "prompts": {},
+  "sessions": {
+    "s_c43a9d549ea4ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "863e2886-4531-47f7-8cdf-18ff7602a8e6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tristan <34117851+0xtristan@users.noreply.github.com>"
+    }
+  }
+}
