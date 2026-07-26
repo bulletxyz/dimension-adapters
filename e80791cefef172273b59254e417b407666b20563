@@ -1,0 +1,25 @@
+open-interest/bullet.ts
+  f60d42507561988a 19-22
+dexs/bullet-perp/index.ts
+  f60d42507561988a 20-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "e80791cefef172273b59254e417b407666b20563",
+  "prompts": {
+    "f60d42507561988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b5cb333e-6cfb-423f-bea2-65dade5f8d62",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tristan",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 3,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
